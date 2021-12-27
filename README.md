@@ -1,2 +1,2 @@
-# Simple_Calc_C-
+# Simple_Calc
 Simple Calculator in C++
