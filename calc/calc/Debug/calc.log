@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Seif\source\repos\calc\calc\Source.cpp(25,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Seif\source\repos\calc\calc\Source.cpp(22,7): warning C4102: 'reused': unreferenced label
+  calc.vcxproj -> C:\Users\Seif\source\repos\calc\Debug\calc.exe
